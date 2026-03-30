@@ -36,12 +36,11 @@ CATEGORIES = {
     2: "World News",
     3: "India (National News)",
     4: "Indian Politics",
-    5: "Sports (Cricket and IPL should be on top)",
+    5: "Sports",
     6: "Business & Economy",
-    7: "Technology",
-    8: "Health",
-    9: "Science",
-    10: "Entertainment & Pop Culture"
+    7: "Science and Technology",
+    8: "Entertainment",
+    9: "Cricket and IPL"
 }
 
 GLOBAL_NEWS_CACHE = {}
